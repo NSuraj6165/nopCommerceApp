@@ -1,0 +1,99 @@
+2023-08-10 23:29:02,766 :INFO :utilities.customLogger :************ Searching By Email *************
+2023-08-10 23:29:13,361 :INFO :utilities.customLogger :************ Login Successful *************
+2023-08-10 23:29:13,361 :INFO :utilities.customLogger :************ Started Searching By Email *************
+2023-08-10 23:29:13,483 :INFO :utilities.customLogger :************ Clicked On Customers *************
+2023-08-10 23:29:16,168 :INFO :utilities.customLogger :************ Clicked On Customers Menu *************
+2023-08-10 23:29:21,577 :INFO :utilities.customLogger :************ Searching By Email Successful *************
+2023-08-10 23:49:49,339 :INFO :utilities.customLogger :************ Test_001_Login *************
+2023-08-10 23:49:49,339 :INFO :utilities.customLogger :************ Test_001_Login *************
+2023-08-10 23:49:49,339 :INFO :utilities.customLogger :************ Test_001_Login *************
+2023-08-10 23:49:49,370 :INFO :utilities.customLogger :************ Verifying Home Page Title *************
+2023-08-10 23:49:49,370 :INFO :utilities.customLogger :************ Verifying Home Page Title *************
+2023-08-10 23:49:49,370 :INFO :utilities.customLogger :************ Verifying Home Page Title *************
+2023-08-10 23:49:55,640 :INFO :utilities.customLogger :************ Home Page Title test is passed *************
+2023-08-10 23:49:55,640 :INFO :utilities.customLogger :************ Home Page Title test is passed *************
+2023-08-10 23:49:55,640 :INFO :utilities.customLogger :************ Home Page Title test is passed *************
+2023-08-10 23:50:00,551 :INFO :utilities.customLogger :************ Verifying Login Test *************
+2023-08-10 23:50:00,551 :INFO :utilities.customLogger :************ Verifying Login Test *************
+2023-08-10 23:50:00,551 :INFO :utilities.customLogger :************ Verifying Login Test *************
+2023-08-10 23:50:14,305 :INFO :utilities.customLogger :************ Login Test is Passed *************
+2023-08-10 23:50:14,305 :INFO :utilities.customLogger :************ Login Test is Passed *************
+2023-08-10 23:50:14,305 :INFO :utilities.customLogger :************ Login Test is Passed *************
+2023-08-10 23:50:19,136 :INFO :utilities.customLogger :************ Searching By Email *************
+2023-08-10 23:50:19,136 :INFO :utilities.customLogger :************ Searching By Email *************
+2023-08-10 23:50:19,136 :INFO :utilities.customLogger :************ Searching By Email *************
+2023-08-10 23:50:29,619 :INFO :utilities.customLogger :************ Login Successful *************
+2023-08-10 23:50:29,619 :INFO :utilities.customLogger :************ Login Successful *************
+2023-08-10 23:50:29,619 :INFO :utilities.customLogger :************ Login Successful *************
+2023-08-10 23:50:29,620 :INFO :utilities.customLogger :************ Started Searching By Email *************
+2023-08-10 23:50:29,620 :INFO :utilities.customLogger :************ Started Searching By Email *************
+2023-08-10 23:50:29,620 :INFO :utilities.customLogger :************ Started Searching By Email *************
+2023-08-10 23:50:30,147 :INFO :utilities.customLogger :************ Clicked On Customers *************
+2023-08-10 23:50:30,147 :INFO :utilities.customLogger :************ Clicked On Customers *************
+2023-08-10 23:50:30,147 :INFO :utilities.customLogger :************ Clicked On Customers *************
+2023-08-10 23:50:34,512 :INFO :utilities.customLogger :************ Clicked On Customers Menu *************
+2023-08-10 23:50:34,512 :INFO :utilities.customLogger :************ Clicked On Customers Menu *************
+2023-08-10 23:50:34,512 :INFO :utilities.customLogger :************ Clicked On Customers Menu *************
+2023-08-10 23:50:40,129 :INFO :utilities.customLogger :************ Searching By Email Successful *************
+2023-08-10 23:50:40,129 :INFO :utilities.customLogger :************ Searching By Email Successful *************
+2023-08-10 23:50:40,129 :INFO :utilities.customLogger :************ Searching By Email Successful *************
+2023-08-10 23:52:02,989 :INFO :utilities.customLogger :************ Verifying Login Test *************
+2023-08-10 23:52:02,989 :INFO :utilities.customLogger :************ Verifying Login Test *************
+2023-08-10 23:52:02,989 :INFO :utilities.customLogger :************ Verifying Login Test *************
+2023-08-10 23:52:14,497 :INFO :utilities.customLogger :************ Login Test is Passed *************
+2023-08-10 23:52:14,497 :INFO :utilities.customLogger :************ Login Test is Passed *************
+2023-08-10 23:52:14,497 :INFO :utilities.customLogger :************ Login Test is Passed *************
+2023-08-10 23:52:22,434 :INFO :utilities.customLogger :************ Verifying LoginData Test *************
+2023-08-10 23:52:22,434 :INFO :utilities.customLogger :************ Verifying LoginData Test *************
+2023-08-10 23:52:22,434 :INFO :utilities.customLogger :************ Verifying LoginData Test *************
+2023-08-10 23:52:35,121 :INFO :utilities.customLogger :************ Login Test is Passed *************
+2023-08-10 23:52:35,121 :INFO :utilities.customLogger :************ Login Test is Passed *************
+2023-08-10 23:52:35,121 :INFO :utilities.customLogger :************ Login Test is Passed *************
+2023-08-10 23:52:43,704 :INFO :utilities.customLogger :************ Verifying LoginData Test *************
+2023-08-10 23:52:43,704 :INFO :utilities.customLogger :************ Verifying LoginData Test *************
+2023-08-10 23:52:43,704 :INFO :utilities.customLogger :************ Verifying LoginData Test *************
+2023-08-10 23:52:51,249 :ERROR :utilities.customLogger :************ Login Test is failed *************
+2023-08-10 23:52:51,249 :ERROR :utilities.customLogger :************ Login Test is failed *************
+2023-08-10 23:52:51,249 :ERROR :utilities.customLogger :************ Login Test is failed *************
+2023-08-10 23:52:56,573 :INFO :utilities.customLogger :************ Verifying LoginData Test *************
+2023-08-10 23:52:56,573 :INFO :utilities.customLogger :************ Verifying LoginData Test *************
+2023-08-10 23:52:56,573 :INFO :utilities.customLogger :************ Verifying LoginData Test *************
+2023-08-10 23:53:04,428 :ERROR :utilities.customLogger :************ Login Test is failed *************
+2023-08-10 23:53:04,428 :ERROR :utilities.customLogger :************ Login Test is failed *************
+2023-08-10 23:53:04,428 :ERROR :utilities.customLogger :************ Login Test is failed *************
+2023-08-10 23:53:08,296 :INFO :utilities.customLogger :************ Verifying LoginData Test *************
+2023-08-10 23:53:08,296 :INFO :utilities.customLogger :************ Verifying LoginData Test *************
+2023-08-10 23:53:08,296 :INFO :utilities.customLogger :************ Verifying LoginData Test *************
+2023-08-10 23:53:16,733 :ERROR :utilities.customLogger :************ Login Test is failed *************
+2023-08-10 23:53:16,733 :ERROR :utilities.customLogger :************ Login Test is failed *************
+2023-08-10 23:53:16,733 :ERROR :utilities.customLogger :************ Login Test is failed *************
+2023-08-11 00:29:41,182 :INFO :utilities.customLogger :************ Verifying Login Test *************
+2023-08-11 00:29:41,182 :INFO :utilities.customLogger :************ Verifying Login Test *************
+2023-08-11 00:29:41,182 :INFO :utilities.customLogger :************ Verifying Login Test *************
+2023-08-11 00:29:54,927 :INFO :utilities.customLogger :************ Login Test is Passed *************
+2023-08-11 00:29:54,927 :INFO :utilities.customLogger :************ Login Test is Passed *************
+2023-08-11 00:29:54,927 :INFO :utilities.customLogger :************ Login Test is Passed *************
+2023-08-11 00:30:03,856 :INFO :utilities.customLogger :************ Verifying LoginData Test *************
+2023-08-11 00:30:03,856 :INFO :utilities.customLogger :************ Verifying LoginData Test *************
+2023-08-11 00:30:03,856 :INFO :utilities.customLogger :************ Verifying LoginData Test *************
+2023-08-11 00:30:16,949 :INFO :utilities.customLogger :************ Login Test is Passed *************
+2023-08-11 00:30:16,949 :INFO :utilities.customLogger :************ Login Test is Passed *************
+2023-08-11 00:30:16,949 :INFO :utilities.customLogger :************ Login Test is Passed *************
+2023-08-11 00:30:23,700 :INFO :utilities.customLogger :************ Verifying LoginData Test *************
+2023-08-11 00:30:23,700 :INFO :utilities.customLogger :************ Verifying LoginData Test *************
+2023-08-11 00:30:23,700 :INFO :utilities.customLogger :************ Verifying LoginData Test *************
+2023-08-11 00:30:31,279 :ERROR :utilities.customLogger :************ Login Test is failed *************
+2023-08-11 00:30:31,279 :ERROR :utilities.customLogger :************ Login Test is failed *************
+2023-08-11 00:30:31,279 :ERROR :utilities.customLogger :************ Login Test is failed *************
+2023-08-11 00:30:33,828 :INFO :utilities.customLogger :************ Verifying LoginData Test *************
+2023-08-11 00:30:33,828 :INFO :utilities.customLogger :************ Verifying LoginData Test *************
+2023-08-11 00:30:33,828 :INFO :utilities.customLogger :************ Verifying LoginData Test *************
+2023-08-11 00:30:40,334 :ERROR :utilities.customLogger :************ Login Test is failed *************
+2023-08-11 00:30:40,334 :ERROR :utilities.customLogger :************ Login Test is failed *************
+2023-08-11 00:30:40,334 :ERROR :utilities.customLogger :************ Login Test is failed *************
+2023-08-11 00:30:43,335 :INFO :utilities.customLogger :************ Verifying LoginData Test *************
+2023-08-11 00:30:43,335 :INFO :utilities.customLogger :************ Verifying LoginData Test *************
+2023-08-11 00:30:43,335 :INFO :utilities.customLogger :************ Verifying LoginData Test *************
+2023-08-11 00:30:50,315 :ERROR :utilities.customLogger :************ Login Test is failed *************
+2023-08-11 00:30:50,315 :ERROR :utilities.customLogger :************ Login Test is failed *************
+2023-08-11 00:30:50,315 :ERROR :utilities.customLogger :************ Login Test is failed *************
